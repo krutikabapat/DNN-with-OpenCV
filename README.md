@@ -9,7 +9,7 @@ Deep neural Networks with OpenCV
 4. VGGNet.  
 5. ResNet.  
 
-## For DNN with Caffe model, we are having two files:-
+## For DNN with Caffe model:-
 
 1. .prototxt file, which has model architecture.  
 2. .caffemodel which has the weights of layers.  
